@@ -1,10 +1,3 @@
-/*
- * GccApplication5.c
- *
- * Created: 02.08.2015 11:01:02
- *  Author: ssv
- */ 
-
 #define F_CPU 4000000L
 #include <avr/io.h>
 #include <util/delay.h>
